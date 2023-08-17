@@ -7,11 +7,16 @@ Documentarea procesului de reaserch cu fotografii, link-uri si descriere
 
  Folosește software specializat care analizează imagini de la o cameră web standard pentru a estima unde privește utilizatorul. Exemple includ aplicații software precum "GazePointer".
 
-## Mouse Tracking:
- Deși nu este o tehnică directă de eye tracking, urmărirea mișcării mouse-ului poate oferi indicii despre unde se așteaptă ca o persoană să privească pe ecran.
+## USB Camera cu OpenCV:
+ Aceasta varianta ne-ar da posibilitatea de a monta camera video la un singur ochi, implicit mai putin hardware ce se monteaza pe sapca, ochelari.
+ Am comandat doua tipuri de camera pentru inspectie. Nu stiu daca am sa le pot face sa functioneze cu raspberry, adica nu cred ca au drivere pentru linux.
 
-## Eye Tracking cu Dispozitive Mobile:
- Există soluții specializate pentru tablete și telefoane care folosesc camerele integrate pentru a monitoriza privirea.
+
+## Eye Tracking cu IR montate pe ochelari:
+Posibil cea mai ieftina metoda dar inca nu stiu cat de eficiienta este.
+Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce probez OpenCV.
+[Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2010/yh428_aoo34/eyetracking/
+[Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2013/msw234_sf323/msw234_sf323_old/msw234_sf323/Eyetracker.htm
 
 ## Sisteme Standalone de Eye Tracking:
  Acestea sunt dispozitive specializate care sunt montate pe un monitor sau o pereche de ochelari. Ele folosesc surse de lumină infraroșie și camere pentru a urmări mișcarea ochilor. Exemple includ produse de la Tobii sau EyeTribe.
