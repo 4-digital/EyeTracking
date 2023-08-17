@@ -20,6 +20,10 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 
 ## Sisteme Standalone de Eye Tracking:
  Acestea sunt dispozitive specializate care sunt montate pe un monitor sau o pereche de ochelari. Ele folosesc surse de lumină infraroșie și camere pentru a urmări mișcarea ochilor. Exemple includ produse de la Tobii sau EyeTribe.
+ [Link]https://www.tobii.com/products/eye-trackers
+ [Link]https://theeyetribe.com/dev.theeyetribe.com/dev.theeyetribe.com/general/index.html
+ [Link]https://pupil-labs.com/products/core/
+ [Link]https://imotions.com/products/hardware/eye-tracking/eye-tracking-glasses/
 
 ## Eye Tracking în Realitate Virtuală (VR):
  Multe căști de realitate virtuală sunt echipate sau pot fi adaptate cu tehnologie de eye tracking, cum ar fi HTC Vive Pro Eye.
