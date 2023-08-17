@@ -11,6 +11,7 @@ Documentarea procesului de reaserch cu fotografii, link-uri si descriere
  Aceasta varianta ne-ar da posibilitatea de a monta camera video la un singur ochi, implicit mai putin hardware ce se monteaza pe sapca, ochelari.
  Am comandat doua tipuri de camera pentru inspectie. Nu stiu daca am sa le pot face sa functioneze cu raspberry, adica nu cred ca au drivere pentru linux.
 
+![inspektionCam](https://github.com/4-digital/EyeTracking/assets/26842625/9d09b487-d308-4033-af89-70942d66566a)
 
 ## Eye Tracking cu IR montate pe ochelari:
 Posibil cea mai ieftina metoda dar inca nu stiu cat de eficiienta este.
