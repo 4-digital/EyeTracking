@@ -12,8 +12,6 @@ Documentarea procesului de reaserch cu fotografii, link-uri si descriere
  Am comandat doua tipuri de camera pentru inspectie. Nu stiu daca am sa le pot face sa functioneze cu raspberry, adica nu cred ca au drivere pentru linux.
  [Link]https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6
 
-![inspektionCam](https://github.com/4-digital/EyeTracking/assets/26842625/9d09b487-d308-4033-af89-70942d66566a)
-
 ## Eye Tracking cu IR montate pe ochelari:
 Posibil cea mai ieftina metoda dar inca nu stiu cat de eficiienta este.
 Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce probez OpenCV.
@@ -42,6 +40,31 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  (Electroencefalografie): Unele sisteme avansate combină eye tracking-ul cu analiza EEG pentru a obține și mai multe informații despre atenția și răspunsul neurologic al utilizatorului.
 
 
+# Camere testate:
+## Endoscop Cam
+
+![Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/9a64ac73-1009-44ec-b29b-caf290a9ef9f)
+![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/0c253fda-5211-4522-8208-427314adc94c)
+![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/4aa5ad90-118b-45ae-89d1-ad0261e4a06b)
+
+## USB Cam
+
+
+![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/6d246da5-1d56-4913-bf36-f54e033a8039)
+![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/f940eef1-2943-4072-9808-8c09c8ff3eea)
+
+
+## Pi Zero Cam
+
+
+![PiZero_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/a1a7793a-04e4-4286-aaab-a6bcd622505d)
+
+
+## USB Webcam
+
+![USB_Webcam](https://github.com/4-digital/EyeTracking/assets/26842625/46b6be27-e90a-4ac6-b88c-0ac0652862b8)
+
+
 
 # Front camera -primul test
  Am testat mai multe camere, ce am gasit in format mai mic. Din cele cu distanta focala mica, endoscope camera, incep sa focalizeze de la 3-4 cm. Cei mai multi pozitioneaza camera in partea dreapta jos.
@@ -58,3 +81,4 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 
 ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/8ae689d2-5cf1-44db-88f9-88e0d0753c09)
 ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/638a98e8-02c1-4553-9387-b33bf7502826)
+![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/ceacde26-304b-4087-88a6-670d760f5501)
