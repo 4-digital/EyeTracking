@@ -43,15 +43,11 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 # Camere testate:
 ## Endoscop Cam
 
-![Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/9a64ac73-1009-44ec-b29b-caf290a9ef9f)
-![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/0c253fda-5211-4522-8208-427314adc94c)
-![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/4aa5ad90-118b-45ae-89d1-ad0261e4a06b)
+
 
 ## USB Cam
 
 
-![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/6d246da5-1d56-4913-bf36-f54e033a8039)
-![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/f940eef1-2943-4072-9808-8c09c8ff3eea)
 
 
 ## Pi Zero Cam
@@ -81,4 +77,5 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 
 ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/8ae689d2-5cf1-44db-88f9-88e0d0753c09)
 ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/638a98e8-02c1-4553-9387-b33bf7502826)
-![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/ceacde26-304b-4087-88a6-670d760f5501)
+
+![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/f7faa65c-f0a2-4579-9f84-919d05993fc9)
