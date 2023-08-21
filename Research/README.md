@@ -42,10 +42,25 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  --- 
 # Camere testate:
 ## Endoscop Cam
-| | | |
-![Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042)
-![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1)
+|                                                                                                                |                                                                                                                 |  
+| ![Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042) | ![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1) |
+
 ![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/9054212c-8336-43f5-be65-14e867338e43)
+
+ Technische Parameter
+
+    Auflösung: 640x480 px / 1024x720 px
+    Aufnahme: 30 Videobilder/Sekunde
+    Wasserdichtigkeit: IP67
+    Durchmesser der Kamera: 5,5 mm
+    Kabellänge: 1m
+    Betrachtungswinkel: 67
+    Schnittstelle: USB 2.0, microUSB, USB-C
+    Betriebstemperatur: -10°C - 120°C
+    Kabeltyp: Weich
+    6 einstellbare weiße LEDs
+### 10 Euro
+ <https://www.amazon.de/dp/B09FPST6HG?psc=1&ref=ppx_yo2ov_dt_b_product_details>
 
  --- 
 ## USB Cam
@@ -99,8 +114,10 @@ FOV: 60°
 Relative Illumination(Sensor): 70%
 IR Filter: 650±10nm
 
-
+### 29.20 Euro
    <https://www.amazon.de/dp/B0C3QWYDSP?psc=1&ref=ppx_yo2ov_dt_b_product_details>
+
+   --- 
 
 ## Pi Zero Cam
 
@@ -124,7 +141,7 @@ Schnittstelle: CSI
 Systemunterstützung: für Raspberry Pi System
 Bildrate: 30 fps 
 
-20.23 Euro
+### 20.23 Euro
 
 <https://www.amazon.de/dp/B08QN9GDDC?psc=1&ref=ppx_yo2ov_dt_b_product_details>
 
@@ -132,7 +149,7 @@ Bildrate: 30 fps
 
 ![USB_Webcam](https://github.com/4-digital/EyeTracking/assets/26842625/46b6be27-e90a-4ac6-b88c-0ac0652862b8)
 
-
+ --- 
 
 # Front camera -primul test
  Am testat mai multe camere, ce am gasit in format mai mic. Din cele cu distanta focala mica, endoscope camera, incep sa focalizeze de la 3-4 cm. Chiar daca cei mai multi pozitioneaza camera in partea dreapta jos, pentru primele teste am sa o montez in fata ochiului drept pentru a se potrivi si cu tutorialele vazute pe net.
@@ -145,8 +162,8 @@ Bildrate: 30 fps
  - Este vizibila chiar si cu celalalt ochi.
  - Inestetic
  - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste)
-|                                                       Sideview                                                    |                                             Frontview                                                               |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
+ |                                                                                                                   |                                                                                                                     |
+ |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+ | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
 ![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/f7faa65c-f0a2-4579-9f84-919d05993fc9)
