@@ -77,10 +77,8 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  - Inestetic
  - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste si afara)
 
-|                                |                                 |                                      |
-|--------------------------------|---------------------------------|--------------------------------------|
-| ![Ochelari_focala](https://github.com/4-digital/EyeTracking/assets/26842625/7137b60b-2b14-4afe-a127-5fb728550e17) | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/653c1a31-b25b-465c-af3f-d4083b428aa1) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/34e4d132-4c13-4fde-a350-082541243791) |
-
-
+|                                                                                                                   |                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
 ![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/f7faa65c-f0a2-4579-9f84-919d05993fc9)
