@@ -42,8 +42,8 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  --- 
 # Camere testate:
 ## Endoscop Cam
- |                                                                                                                                 |                                                                                                                                  |  
- | img width="100%"! [Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042) | img width="100%" ![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1) |
+ |                                                                                                               |                                                                                                                 |  
+ | [Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042) | ![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1) |
  --- 
 ![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/9054212c-8336-43f5-be65-14e867338e43)
 
@@ -65,8 +65,8 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  --- 
 ## USB Cam
 
- |                                                                                                            |                                                                                                            |
- |  ![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/d1dcd2af-08c2-4e57-82fb-fea347633005) | ![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/9cf33f64-f303-4092-9739-507316abab08) |
+ |                                                                                                         |                                                                                                          |
+ |![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/d1dcd2af-08c2-4e57-82fb-fea347633005)|![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/9cf33f64-f303-4092-9739-507316abab08)|
  --- 
 Overview:
 
