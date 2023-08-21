@@ -124,9 +124,7 @@ IR Filter: 650±10nm
 ### dezavantaje
  - Este vizibila chiar si cu celalalt ochi.
  - Inestetic
- - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste si afara)
-
-|                                                                                                                   |                                                                                                                     |
+ - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste)
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
