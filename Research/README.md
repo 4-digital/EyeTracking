@@ -9,7 +9,7 @@ Documentarea procesului de reaserch cu fotografii, link-uri si descriere
 
 ## USB Camera cu OpenCV:
  Aceasta varianta ne-ar da posibilitatea de a monta camera video la un singur ochi, implicit mai putin hardware ce se monteaza pe sapca, ochelari.
- Am comandat doua tipuri de camera pentru inspectie. Nu stiu daca am sa le pot face sa functioneze cu raspberry, adica nu cred ca au drivere pentru linux.
+ 
  [Link]https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6
 
 ## Eye Tracking cu IR montate pe ochelari:
@@ -43,12 +43,12 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 # Camere testate:
 ## Endoscop Cam
  
- |                                                                                                               |                                                                                                                 |  
- | [Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042) | ![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1) |
+|                                                  |                                                   |                                                   |
+|--------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| <img width="100%" src="photos/Endoscop_cam.jpg"> | <img width="100%" src="photos/endoscop_cam1.jpg"> | <img width="100%" src="photos/endoscop_cam2.jpg"> |
 
- --- 
 
-![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/9054212c-8336-43f5-be65-14e867338e43)
+
 
  Technische Parameter
 
@@ -64,13 +64,17 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
     6 einstellbare weiße LEDs
 ### 10 Euro
  <https://www.amazon.de/dp/B09FPST6HG?psc=1&ref=ppx_yo2ov_dt_b_product_details>
+ 
+  --- 
 
- --- 
 ## USB Cam
 
- |                                                                                                         |                                                                                                          |
- |![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/d1dcd2af-08c2-4e57-82fb-fea347633005)|![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/9cf33f64-f303-4092-9739-507316abab08)|
- --- 
+|                                             |                                              |
+|---------------------------------------------|----------------------------------------------|
+| <img width="100%" src="photos/USB_cam.jpg"> | <img width="100%" src="photos/USB_cam1.jpg"> |
+
+
+
 Overview:
 
 This mini usb camera module adopts CMOS image sensor OV5640 produced by OmniVision Technologies, high-definition camera has 5 Megapixel,
@@ -169,10 +173,9 @@ Bildrate: 30 fps
  |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
  | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
-|                                               |                                               |                                               |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <img width="100%" src="IMG/Ochelari_focala.jpg"> | <img width="100%" src="IMG/ochelari_camera.jpg"> | <img width="100%" src="IMG/ochelari_camera1.jpg"> |
-| <img width="100%" src="IMG/Ochelari_focala.jpg"> | <img width="100%" src="IMG/ochelari_camera.jpg"> | <img width="100%" src="IMG/ochelari_camera1.jpg"> |
+|                                                     |                                                     |                                                      |
+|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
+| <img width="100%" src="photos/Ochelari_focala.jpg"> | <img width="100%" src="photos/ochelari_camera.jpg"> | <img width="100%" src="photos/ochelari_camera1.jpg"> |
 
 
 
