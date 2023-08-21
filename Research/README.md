@@ -42,9 +42,12 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
  --- 
 # Camere testate:
 ## Endoscop Cam
+ 
  |                                                                                                               |                                                                                                                 |  
  | [Endoscop_cam](https://github.com/4-digital/EyeTracking/assets/26842625/4b4500fd-7835-4824-8349-bfdb72bd9042) | ![endoscop_cam1](https://github.com/4-digital/EyeTracking/assets/26842625/721245ca-838a-4ecd-a724-dd156707cbf1) |
+
  --- 
+
 ![endoscop_cam2](https://github.com/4-digital/EyeTracking/assets/26842625/9054212c-8336-43f5-be65-14e867338e43)
 
  Technische Parameter
