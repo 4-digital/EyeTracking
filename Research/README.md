@@ -169,4 +169,11 @@ Bildrate: 30 fps
  |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
  | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
+|                                               |                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img width="100%" src="IMG/Ochelari_focala.jpg"> | <img width="100%" src="IMG/ochelari_camera.jpg"> | <img width="100%" src="IMG/ochelari_camera1.jpg"> |
+| <img width="100%" src="IMG/Ochelari_focala.jpg"> | <img width="100%" src="IMG/ochelari_camera.jpg"> | <img width="100%" src="IMG/ochelari_camera1.jpg"> |
+
+
+
 ![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/f7faa65c-f0a2-4579-9f84-919d05993fc9)
