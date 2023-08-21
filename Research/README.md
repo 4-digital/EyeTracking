@@ -108,6 +108,26 @@ IR Filter: 650±10nm
 ![PiZero_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/a1a7793a-04e4-4286-aaab-a6bcd622505d)
 
 
+Modell: HBV-ZERO-V3.0
+Stromversorgung: DC3.3V
+Kabellänge: Ca. 30 cm
+Sensorpixel: 1080P
+Lichtempfindlicher Chip: OV5647
+Brennweite: 3,51 mm
+CMOS-Größe: 1/4 Zoll
+Diagonales Sichtfeld: 69,1 Grad
+Sensortyp: CMOS
+Die höchste Auflösung: 2592 x 1944
+Fokusmethode: Manueller Fokus
+Notwendigkeit zu fahren: Free Drive
+Schnittstelle: CSI
+Systemunterstützung: für Raspberry Pi System
+Bildrate: 30 fps 
+
+20.23 Euro
+
+<https://www.amazon.de/dp/B08QN9GDDC?psc=1&ref=ppx_yo2ov_dt_b_product_details>
+
 ## USB Webcam
 
 ![USB_Webcam](https://github.com/4-digital/EyeTracking/assets/26842625/46b6be27-e90a-4ac6-b88c-0ac0652862b8)
@@ -125,6 +145,7 @@ IR Filter: 650±10nm
  - Este vizibila chiar si cu celalalt ochi.
  - Inestetic
  - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste)
+|                                                       Sideview                                                    |                                             Frontview                                                               |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
