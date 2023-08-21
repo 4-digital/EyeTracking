@@ -50,8 +50,57 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 
 ## USB Cam
 
+|    |     |
+|  ![USB_CAM](https://github.com/4-digital/EyeTracking/assets/26842625/d1dcd2af-08c2-4e57-82fb-fea347633005) | ![USB_CAM2](https://github.com/4-digital/EyeTracking/assets/26842625/9cf33f64-f303-4092-9739-507316abab08) |
+
+Overview:
+
+This mini usb camera module adopts CMOS image sensor OV5640 produced by OmniVision Technologies, high-definition camera has 5 Megapixel,
+adopts USB2.0 interface, weights only 10g, adopts fixed focus mode, with microphone, supports Win XP/Win7/Win8/vista/mac/Linux/Android 4.0/Jetson Nano operating system.
+
+Specifications:
+
+Size: 85.8mm(Length)x18mm(Width)x6mm(High)±0.2mm
+Temperature(Operating): -30℃～70℃
+Temperature(Stable Image): 0℃～50℃
+Assembly Technique: SMT(ROSH)
+Focus: Fixed
+Object Distance: 30CM～infinity
+Resolution: 600LW/PH(Center)
+Interface: USB2.0
+Power Supply: USB bus power
+Supply Voltage: DC 5V±5%
+Maximum Power Consumption: 920mW
+Operating System Request: Win XP/Win7/Win8/vista/mac/Linux/Android 4.0/Jetson Nano
+Sensor: OV5640 (1/4")
+Sensor Package: CSP，Bare Die
+Maximum resolution: 2592 x 1944
+Sensitivity: 600mv/(lux-sec)
+Pixel Size: 1.4µm x 1.4µm
+
+Maximum Image Transfer Rate:
+MJPEG 1024x768 30FPS /YUY2 160x120 30FPS
+MJPEG 1280x720 30FPS /YUY2 320x240 30FPS
+MJPEG 1600x1200 30FPS / YUY2 640x480 30FPS
+MJPEG 1920x1080 15FPS /YUY2 800x600 30FPS
+MJPEG 2048x1536 15FPS /YUY2 1024x768 15FPS
+MJPEG 2592x1944 15FPS /YUY2 2592x1944 3FPS
+
+S/N Ratio: 36db
+Max Dynamic Range: 68db
+Shutter type: Electronic rolling shutter
+AGC/AEC/Whiter Balance: Auto
+Output Formats: YUY2/MJPEG
+Microphone: Support
+Lens Construction: 4P
+F/No: 2.8
+EFL: 3.3mm
+FOV: 60°
+Relative Illumination(Sensor): 70%
+IR Filter: 650±10nm
 
 
+   <https://www.amazon.de/dp/B0C3QWYDSP?psc=1&ref=ppx_yo2ov_dt_b_product_details>
 
 ## Pi Zero Cam
 
