@@ -7,39 +7,79 @@ Documentarea procesului de reaserch cu fotografii, link-uri si descriere
 
  Folosește software specializat care analizează imagini de la o cameră web standard pentru a estima unde privește utilizatorul. Exemple includ aplicații software precum "GazePointer".
 
+  ### Eyetrackvr, realizat cu esp32-IR-WindowsSoftware-Unity
+
+  * Trebuie scos filtrul IR de la modulele de camera
+  * Atentie la puterea diodelor IR!!! Pe site sunt cateva documente despre impactul radiatiei IR asupra ochiului
+  * <https://docs.eyetrackvr.dev/getting_started/intro>
+
+  *  <https://github.com/EyeTrackVR/OpenIris>
+
+  * <https://www.youtube.com/watch?v=QYH-FWvDbDc>
+  * <https://www.youtube.com/watch?v=4tH95X1_7Zc> 
+
+
+ --- 
+
+
 ## USB Camera cu OpenCV:
- Aceasta varianta ne-ar da posibilitatea de a monta camera video la un singur ochi, implicit mai putin hardware ce se monteaza pe sapca, ochelari.
+ Si aceasta varianta ne-ar da posibilitatea de a monta camera video la un singur ochi, implicit mai putin hardware ce se monteaza pe sapca, ochelari.
  
  [Link]https://medium.com/@stepanfilonov/tracking-your-eyes-with-python-3952e66194a6
 
+
+ --- 
+
 ## Eye Tracking cu IR montate pe ochelari:
 Posibil cea mai ieftina metoda dar inca nu stiu cat de eficiienta este.
-Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce probez OpenCV.
-[Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2010/yh428_aoo34/eyetracking/
-[Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2013/msw234_sf323/msw234_sf323_old/msw234_sf323/Eyetracker.htm
+
+ [Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2010/yh428_aoo34/eyetracking/
+
+ [Link]https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2013/msw234_sf323/msw234_sf323_old/msw234_sf323/Eyetracker.htm
+
+
+ --- 
 
 ## Sisteme Standalone de Eye Tracking:
  Acestea sunt dispozitive specializate care sunt montate pe un monitor sau o pereche de ochelari. Ele folosesc surse de lumină infraroșie și camere pentru a urmări mișcarea ochilor. Exemple includ produse de la Tobii sau EyeTribe.
- [Link]https://www.tobii.com/products/eye-trackers
- [Link]https://theeyetribe.com/dev.theeyetribe.com/dev.theeyetribe.com/general/index.html
- [Link]https://pupil-labs.com/products/core/
- [Link]https://imotions.com/products/hardware/eye-tracking/eye-tracking-glasses/
+  [Link]https://www.tobii.com/products/eye-trackers
+
+  [Link]https://theeyetribe.com/dev.theeyetribe.com/dev.theeyetribe.com/general/index.html
+
+  [Link]https://pupil-labs.com/products/core/
+
+  [Link]https://imotions.com/products/hardware/eye-tracking/eye-tracking-glasses/
+
+
+ --- 
+
 
 ## Eye Tracking în Realitate Virtuală (VR):
+ 
  Multe căști de realitate virtuală sunt echipate sau pot fi adaptate cu tehnologie de eye tracking, cum ar fi HTC Vive Pro Eye.
 
+
+ --- 
+
 ## Electrooculografie (EOG):
+ 
  O metodă care implică plasarea de electrozi în jurul ochilor pentru a măsura potențialele electrice care apar odată cu mișcarea globilor oculari.
-[Link]https://en.wikipedia.org/wiki/Electrooculography
+ 
+  [Link]https://en.wikipedia.org/wiki/Electrooculography
 
 
-## Sisteme Invasive:
- Tehnici precum implanturile retiniene care pot fi utilizate pentru a urmări mișcarea ochilor de la interior.
+
+ --- 
 
 ## Eye Tracking Combinat cu Analiza EEG
  (Electroencefalografie): Unele sisteme avansate combină eye tracking-ul cu analiza EEG pentru a obține și mai multe informații despre atenția și răspunsul neurologic al utilizatorului.
 
+ <https://www.reginamaria.ro/articole-medicale/sa-intelegem-ce-este-electroencefalograma>
+
  --- 
+
+
+
 # Camere testate:
 ## Endoscop Cam
  
@@ -71,7 +111,7 @@ Pentru aceasta varianta am comandat deja cateva piese si ma apuc de ea dupa ce p
 
 |                                             |                                              |
 |---------------------------------------------|----------------------------------------------|
-| <img width="100%" src="photos/USB_cam.jpg"> | <img width="100%" src="photos/USB_cam1.jpg"> |
+| <img width="100%" src="photos/USB_CAM.jpg"> | <img width="100%" src="photos/USB_CAM1.jpg"> |
 
 
 
@@ -156,6 +196,8 @@ Bildrate: 30 fps
 
 ![USB_Webcam](https://github.com/4-digital/EyeTracking/assets/26842625/46b6be27-e90a-4ac6-b88c-0ac0652862b8)
 
+    Are imaginea cea mai buna dar nu prea se potriveste din cauza marimii. Au mai fost si alte webcam-uri ce am probat dar nu sunt bune pentru scopul propus
+
  --- 
 
 # Front camera -primul test
@@ -169,14 +211,8 @@ Bildrate: 30 fps
  - Este vizibila chiar si cu celalalt ochi.
  - Inestetic
  - Tot sunt reflexii in lentila ochelarilor. Chiar ledurile aflate pe camera sunt aproape neutilizabile(sunt necesare teste)
- |                                                                                                                   |                                                                                                                     |
- |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
- | ![ochelari_camera](https://github.com/4-digital/EyeTracking/assets/26842625/ff53259e-c465-4acd-b2a0-94de427cfd13) |  ![ochelari_camera1](https://github.com/4-digital/EyeTracking/assets/26842625/0ea4e82e-769b-4ac8-a426-b4cfdfd1d62c) |
 
 |                                                     |                                                     |                                                      |
 |-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | <img width="100%" src="photos/Ochelari_focala.jpg"> | <img width="100%" src="photos/ochelari_camera.jpg"> | <img width="100%" src="photos/ochelari_camera1.jpg"> |
 
-
-
-![suporti_electronica](https://github.com/4-digital/EyeTracking/assets/26842625/f7faa65c-f0a2-4579-9f84-919d05993fc9)
