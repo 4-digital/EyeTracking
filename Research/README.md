@@ -216,3 +216,6 @@ Bildrate: 30 fps
 |-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | <img width="100%" src="photos/Ochelari_focala.jpg"> | <img width="100%" src="photos/ochelari_camera.jpg"> | <img width="100%" src="photos/ochelari_camera1.jpg"> |
 
+
+NIR vs IR
+cele mai multe sisteme diy folosesc diode IR pe cand cele comerciale NIR, de la Near Infra Red. Mi se pare ca este aceeasi treaba dar trebuie interesat daca exista diferente.
