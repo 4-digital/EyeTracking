@@ -1,0 +1,1 @@
+Am avum multe errori incercand sa comunic serial intre esp32-s3 pe pinii notati pe placa RX, TX asa ca am folosit pinul1 ca TX si pinul 2 ca RX.
