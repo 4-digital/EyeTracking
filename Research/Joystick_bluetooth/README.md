@@ -7,21 +7,19 @@ sudo apt-get install bluetooth bluez blueman
 
 Pentru a instala evtest, folosește:
 
-bash
 
 sudo apt-get install evtest
 sudo apt-get install python3-evdev
 
 Apoi, testează fiecare dispozitiv:
 
-bash
 
 sudo evtest /dev/input/eventX
 
 
 
 Înlocuiește eventX cu numerele corespunzătoare pentru fiecare dispozitiv de intrare pe care dorești să îl testezi. In cazul meu au fost afisate proprietatile joystick-ului la event3
-
+```
 ^Cme@eyetrack:~ $ sudo evtest /dev/input/event3
 Input driver version is 1.0.1
 Input device ID: bus 0x5 vendor 0x5ac product 0x3232 version 0x1
@@ -54,7 +52,7 @@ Event: time 1693422351.494005, -------------- SYN_REPORT ------------
 Event: time 1693422351.501528, type 2 (EV_REL), code 1 (REL_Y), value -8
 Event: time 1693422351.501528, -------------- SYN_REPORT ------------
 Event: time 1693422351.509020, type 2 (EV_REL), code 1 (REL_Y), value -8
-
+```
 In partea de jos se vede cum am actionat maneta pe axa Y. Valoarea maxima, cand maneta este la stanga sau dreapta este de la 8 la -8
 
 Atentie, Valoarea nu este actualizata daca se da drumul la maneta si aceasta revine la pozitia din mijloc.
