@@ -1,5 +1,6 @@
 # Joystick/Gamepad Control
-<img src="/../Research/photos/joystick.jpg">
+![joystick](https://github.com/4-digital/EyeTracking/assets/26842625/10e133cb-b32f-4b0d-a853-db2dd778b2a0)
+
 
 Pentru a putea prelua comanda de la distanta se foloseste un joystick bluetooth versiunea3 care se conecteaza direct la raspberry
 Acest cod este un test care citeste valoarea de la un joystick , actualizeaza valoarea de 0 care nu este trimisa pe bluetooth, afiseaza valoarea si o trimite pe serial.
