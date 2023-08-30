@@ -1,5 +1,5 @@
 # Joystick/Gamepad Control
-<img src="photos/joystick.jpg">
+<img src="/photos/joystick.jpg">
 
 Pentru a putea prelua comanda de la distanta se foloseste un joystick bluetooth versiunea3 care se conecteaza direct la raspberry
 Acest cod este un test care citeste valoarea de la un joystick , actualizeaza valoarea de 0 care nu este trimisa pe bluetooth, afiseaza valoarea si o trimite pe serial.
