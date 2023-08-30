@@ -1,5 +1,5 @@
 # Joystick/Gamepad Control
-<img src="Research/photos/joystick.jpg">
+<img src="/../Research/photos/joystick.jpg">
 
 Pentru a putea prelua comanda de la distanta se foloseste un joystick bluetooth versiunea3 care se conecteaza direct la raspberry
 Acest cod este un test care citeste valoarea de la un joystick , actualizeaza valoarea de 0 care nu este trimisa pe bluetooth, afiseaza valoarea si o trimite pe serial.
@@ -55,8 +55,8 @@ Event: time 1693422351.501528, type 2 (EV_REL), code 1 (REL_Y), value -8
 Event: time 1693422351.501528, -------------- SYN_REPORT ------------
 Event: time 1693422351.509020, type 2 (EV_REL), code 1 (REL_Y), value -8
 ```
-In partea de jos se vede cum am actionat maneta pe axa Y. Valoarea maxima, cand maneta este la stanga sau dreapta este de la 8 la -8
+In partea de jos se vede cum am actionat maneta pe axa Y. Valoarea maxima, cand maneta este la stanga/dreapta sus/jos este de la 8 la -8
 
-Atentie, Valoarea nu este actualizata daca se da drumul la maneta si aceasta revine la pozitia din mijloc.
-Am incercat sa rezolv asta in cod, adica la fiecare 1 secunda daca valoarea nu este actualizata sau modificata, se presupune ca are valoarea 0
-Cand gamepad-ul se afla la o distanta mai mare de raspberry se deconecteaza. Scriptul incearca sa scaneze la fiecare 5 secunde daca a fost reconectat. Daca timpul in care este deconectat nu este mai mare de cateva minute, pe gamepad clipeste un LED albastru se reconecteaza automat. Daca nu a fost folosit ceva timp gamepad-ul se opreste automat si trebuie repornit. Tine butonul de power apasat mai mult de 3 secunde.
+  -Atentie! Valoarea trimisa de joystick nu este actualizata daca se da drumul la maneta sau se actioneaza mai repede si aceasta revine la pozitia din mijloc.
+  Am incercat sa rezolv asta in cod, adica la fiecare 1 secunda daca valoarea nu este actualizata sau modificata, se presupune ca are valoarea 0
+Cand gamepad-ul/joystick-ul se afla la o distanta mai mare de raspberry se deconecteaza. Scriptul incearca sa scaneze la fiecare 5 secunde daca a fost reconectat. Daca timpul in care este deconectat nu este mai mare de cateva minute, pe gamepad clipeste un LED albastru se reconecteaza automat. Daca nu a fost folosit ceva timp gamepad-ul se opreste automat si trebuie repornit. Tine butonul de power apasat mai mult de 3 secunde.
