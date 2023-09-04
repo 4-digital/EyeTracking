@@ -57,6 +57,8 @@ Event: time 1693422351.509020, type 2 (EV_REL), code 1 (REL_Y), value -8
 ```
 In partea de jos se vede cum am actionat maneta pe axa Y. Valoarea maxima, cand maneta este la stanga/dreapta sus/jos este de la 8 la -8
 
+cauta in cod linia: device_path = '/dev/input/event3' si inlocuieste ultima cifra cu numarul device-ului
+
   -Atentie! Valoarea trimisa de joystick nu este actualizata daca se da drumul la maneta sau se actioneaza mai repede si aceasta revine la pozitia din mijloc.
   Am incercat sa rezolv asta in cod, adica la fiecare 1 secunda daca valoarea nu este actualizata sau modificata, se presupune ca are valoarea 0
 Cand gamepad-ul/joystick-ul se afla la o distanta mai mare de raspberry se deconecteaza. Scriptul incearca sa scaneze la fiecare 5 secunde daca a fost reconectat. Daca timpul in care este deconectat nu este mai mare de cateva minute, pe gamepad clipeste un LED albastru se reconecteaza automat. Daca nu a fost folosit ceva timp gamepad-ul se opreste automat si trebuie repornit. Tine butonul de power apasat mai mult de 3 secunde.
