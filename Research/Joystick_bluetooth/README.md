@@ -10,9 +10,8 @@ sudo apt-get install bluetooth bluez blueman
 
 Pentru a instala evtest, folosește:
 
+sudo apt-get install evtest python3-evdev
 
-sudo apt-get install evtest
-sudo apt-get install python3-evdev
 
 Apoi, testează fiecare dispozitiv:
 
